@@ -1,6 +1,6 @@
 {
-  "name": "node-luac",
-  "version": "1.0.0",
+  "name": "luac",
+  "version": "0.0.1",
   "description": "",
   "main": "index.js",
   "scripts": {
