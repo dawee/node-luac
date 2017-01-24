@@ -6,6 +6,8 @@
       "deps/lua-5.3.3/src"
     ],
     "sources": [
+      "node-luac.cc",
+      "build.c",
       "deps/lua-5.3.3/src/lmathlib.c",
       "deps/lua-5.3.3/src/lfunc.c",
       "deps/lua-5.3.3/src/lcode.c",
@@ -38,8 +40,7 @@
       "deps/lua-5.3.3/src/lutf8lib.c",
       "deps/lua-5.3.3/src/lobject.c",
       "deps/lua-5.3.3/src/lgc.c",
-      "deps/lua-5.3.3/src/lstring.c",
-      "node-luac.cc"
+      "deps/lua-5.3.3/src/lstring.c"
     ]
   }
   ]
